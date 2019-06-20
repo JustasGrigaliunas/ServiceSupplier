@@ -1,0 +1,6 @@
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplier\bin\Debug\ServiceSupplier.exe.config
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplier\bin\Debug\ServiceSupplier.exe
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplier\Debug\ServiceSupplier.csprojAssemblyReference.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplier\Debug\ServiceSupplier.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplier\Debug\ServiceSupplier.csproj.CopyComplete
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplier\Debug\ServiceSupplier.exe

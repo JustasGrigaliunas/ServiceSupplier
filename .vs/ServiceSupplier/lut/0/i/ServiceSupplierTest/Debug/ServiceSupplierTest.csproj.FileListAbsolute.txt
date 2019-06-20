@@ -1,0 +1,7 @@
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplierTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplierTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplierTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\b\ServiceSupplierTest\bin\Debug\ServiceSupplierTest.dll
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplierTest\Debug\ServiceSupplierTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplierTest\Debug\ServiceSupplierTest.csproj.CopyComplete
+C:\Users\Lenovo_Grigis_PC\source\repos\ServiceSupplier\.vs\ServiceSupplier\lut\0\i\ServiceSupplierTest\Debug\ServiceSupplierTest.dll
